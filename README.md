@@ -1,5 +1,6 @@
 # iterativePIV
-This is a mirror of the PIV (Particle Image Velocimetry) [ImageJ](http://imagej.nih.gov/ij/) plugin [iterativePIV](https://sites.google.com/site/qingzongtseng/piv) ([and other ImageJ plugins](https://sites.google.com/site/qingzongtseng/imagejplugins)) by Qingzong Tseng as retrieved on 26 October 2019, with installation instructions.
+This is a mirror of the PIV (Particle Image Velocimetry) [ImageJ](http://imagej.nih.gov/ij/) plugin [iterativePIV](https://sites.google.com/site/qingzongtseng/piv) ([and other ImageJ plugins](https://sites.google.com/site/qingzongtseng/imagejplugins)) by Qingzong Tseng as retrieved on 26 October 2019, with installation instructions.<br>
+For more information and examples, click [here](https://sites.google.com/site/qingzongtseng/piv).
 
 ## Description
 
